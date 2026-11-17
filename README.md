@@ -5,7 +5,7 @@
 **Subject:** Web Development (Introduction) — WEDE5020  
 **Group:** Not applicable  
 **Approved organisation:** Jeremiah Collections, Pretoria Central  
-**Part 1 process document:** [ST10506757 - Tshwarelo Clement Makgae - WEDE5020 - POE - Part 1.docx](documents/ST10506757%20-%20Tshwarelo%20Clement%20Makgae%20-%20WEDE5020%20-%20POE%20-%20Part%201.docx)  
+**Part 1 process document:** [ST10506757 - Tshwarelo Clement Makgae - WEDE5020 - POE - Part 1.docx](documents/ST10506757%20-%20Tshwarelo%20Clement%20Makgae%20-%20WEDE5020%20-%20POE%20-%20Part%201%20Updated.docx)  
 **Approved organisation proposal:** [Jeremiah Collections Project Proposal.docx](documents/Jeremiah%20Collections%20Project%20Proposal.docx)  
 **Research archive:** [Jeremiah Collections Research.zip](documents/Jeremiah%20Collections%20Research.zip)  
 **Wireframe:** [Jeremiah Collections Homepage Wireframe.svg](documents/wireframes/Jeremiah%20Collections%20Homepage%20Wireframe.svg)
@@ -85,4 +85,5 @@ Images are served from Unsplash and each was marked free to use under the Unspla
 ## Changelog
 - 17 November 2026: Started the Part 1 proposal and six-page site.
 - 17 November 2026: Added the approved Jeremiah Collections Word proposal, updated contact details and converted the pages to the supplied Jeremiah Collections visual direction.
+
 
